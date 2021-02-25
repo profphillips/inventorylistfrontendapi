@@ -4,7 +4,7 @@ Source link: [https://github.com/profphillips/inventorylistfrontendapi](https://
 
 Live page link: [https://profphillips.github.io/inventorylistfrontendapi/](https://profphillips.github.io/inventorylistfrontendapi/).
 
-## This app calls inventorylistapi running on Heroku to access the mongodb atlas storage
+This app calls inventorylistapi running on Heroku to access the mongodb atlas storage
 
 Source link: [https://github.com/profphillips/inventorylistapi](https://github.com/profphillips/inventorylistapi).
 
