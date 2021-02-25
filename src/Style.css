@@ -1,0 +1,86 @@
+/* Style.css by JP */
+
+.Wrapper {
+  margin: auto;
+  margin-top: 10px;
+  max-width: 700px;
+  padding: 15px;
+  padding-bottom: 200px;
+  background: #fdf8f5;
+  color: #222;
+}
+
+.Wrapper h1 {
+  /* color: #265; */
+  color: #209;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.Wrapper h2 {
+  color: #205;
+  text-align: center;
+}
+
+.Wrapper p {
+  text-align: center;
+}
+
+.InputForm {
+  margin-bottom: 10px;
+  /* border-style: dotted; */
+}
+
+.InputForm input {
+  margin: 5px;
+  padding: 5px;
+}
+
+.InputForm button {
+  margin-top: 3px;
+  margin-left: 10px;
+  height: 28px;
+}
+
+.ListContainer {
+  border-style: none;
+}
+
+.ListContainer ul {
+  margin: 0;
+  padding: 0; /* forces the group of li rows to the left */
+  list-style-type: none;
+  /* border-style: solid; */
+}
+
+.ListContainer li {
+  display: grid; /* puts everything in a nice row */
+  margin-top: 5px;
+  padding: 7px 0px 2px 0px;
+  border-bottom-style: groove;
+  /* border-style: dotted; */
+}
+
+.Item {
+  margin-left: 5px; /*puts a little space to the left of the text */
+}
+
+/* Place a button group on the right side of each todo task */
+.ButtonGroup {
+  margin-left: auto;
+  float: right;
+}
+
+/* Adds a little space above and to the left of each fixed size button */
+.Button {
+  margin-left: 10px;
+  width: 60px;
+  height: 25px;
+}
+
+.Footer {
+  margin: 10px 20px;
+  font-size: smaller;
+  text-align: center;
+  color: #205;
+}
